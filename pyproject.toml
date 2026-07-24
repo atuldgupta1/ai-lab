@@ -10,6 +10,7 @@ dependencies = [
     "micrograd>=0.1.0",
     "notebook>=7.6.0",
     "numpy>=2.5.0",
+    "pytest>=9.1.0",
     "torch>=2.12.1",
 ]
 [tool.pytest.ini_options]
